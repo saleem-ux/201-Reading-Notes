@@ -4,7 +4,7 @@
 |-------|-------|
 |read1  |[Link1](https://saleem-ux.github.io/201-Reading-Notes/class-01)|
 |read2  |[Link2](https://saleem-ux.github.io/201-Reading-Notes/class-02)|
-|read3  |[link3]()|
+|read3  |[link3](https://saleem-ux.github.io/201-Reading-Notes/class-03)|
 |read4  |[link4]()|
 |read5  |[link5]()|
 |read6  |[link6]()|
