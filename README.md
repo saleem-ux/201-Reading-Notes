@@ -7,7 +7,7 @@
 |read3  |[link3](https://saleem-ux.github.io/201-Reading-Notes/class-03)|
 |read4  |[link4](https://saleem-ux.github.io/201-Reading-Notes/class-05)|
 |read5  |[link5](https://saleem-ux.github.io/201-Reading-Notes/class-05)|
-|read6  |[link6]()|
+|read6  |[link6](https://saleem-ux.github.io/201-Reading-Notes/class-06)|
 |read7  |[link7]()|
 |read8  |[link8]()|
 |read9  |[link9]()|
