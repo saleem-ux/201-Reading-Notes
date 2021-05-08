@@ -8,11 +8,11 @@
 |read4  |[link4](https://saleem-ux.github.io/201-Reading-Notes/class-05)|
 |read5  |[link5](https://saleem-ux.github.io/201-Reading-Notes/class-05)|
 |read6  |[link6](https://saleem-ux.github.io/201-Reading-Notes/class-06)|
-|read7  |[link7]()|
-|read8  |[link8]()|
-|read9  |[link9]()|
-|read10 |[link10]()|
-|read11 |[link11]()|
+|read7  |[link7](https://saleem-ux.github.io/201-Reading-Notes/class-07)|
+|read8  |[link8](https://saleem-ux.github.io/201-Reading-Notes/class-08)|
+|read9  |[link9](https://saleem-ux.github.io/201-Reading-Notes/class-09)|
+|read10 |[link10](https://saleem-ux.github.io/201-Reading-Notes/class-10)|
+|read11 |[link11](https://saleem-ux.github.io/201-Reading-Notes/class-11)|
 |read12 |[link12]()|
 |read13 |[link13]()|
 |read14 |[link14]()|
