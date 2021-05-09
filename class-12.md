@@ -23,5 +23,6 @@ Search Engine Optimization: is the art and science of persuading search engines 
  Ensure these search engines understand who you are and what you offer.
 
 * Convince them that you are the most credible option for their users.
+![image](https://papa.agency/wp-content/uploads/2018/10/seo-tools.jpg).
 
 * Make your content deliverable.
