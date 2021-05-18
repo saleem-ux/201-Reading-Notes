@@ -6,7 +6,7 @@ It supports 8 different chart types (including bars, lines, & pies), and they’
 2. Define what type of graph you want to draw.
 3. Supply Chart.js with data, labels, and other options.
 ## Step 1: Add Chart.js
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+(<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>)
 Copy and paste this row in the html file
 
 ## Step 2: Prepare a place in your HTML to render the chart
