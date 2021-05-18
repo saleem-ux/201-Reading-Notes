@@ -6,14 +6,11 @@ It supports 8 different chart types (including bars, lines, & pies), and they’
 2. Define what type of graph you want to draw.
 3. Supply Chart.js with data, labels, and other options.
 ## Step 1: Add Chart.js
-(<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>)
-Copy and paste this row in the html file
+![image](https://user-images.githubusercontent.com/82366428/118720194-2bc6be80-b7de-11eb-971c-2f8392ec049d.png)
 
 ## Step 2: Prepare a place in your HTML to render the chart
- adding a canvas element, and setting width and height to define the proportions of your graph.
- <canvas id="myChart" width="1600" height="900"></canvas>
+ ![image](https://user-images.githubusercontent.com/82366428/118720278-4862f680-b7de-11eb-9260-af67b59ed281.png)
 
  ## Step 3: Prepare the data
 
- ![image](https://cms-assets.tutsplus.com/uploads/users/48/posts/28129/image/JS-code%20(1).png).
- 
+![image](https://user-images.githubusercontent.com/82366428/118720393-64669800-b7de-11eb-98d2-b73c77b2367f.png)
