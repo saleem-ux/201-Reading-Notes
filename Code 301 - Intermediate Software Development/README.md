@@ -2,7 +2,7 @@
 ## Table of contents:
 | Read | Links |
 |-------|-------|
-|read1  |[Link1]()|
+|read1  |[Link1](https://saleem-ux.github.io/reading-note/read01)|
 |read2  |[Link2]()|
 |read3  |[link3]()|
 |read4  |[link4]()|
