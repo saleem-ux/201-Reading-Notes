@@ -3,7 +3,7 @@
 | Read | Links |
 |-------|-------|
 |read1  |[Link1](https://saleem-ux.github.io/reading-note/read01)|
-|read2  |[Link2]()|
+|read2  |[Link2](https://saleem-ux.github.io/reading-note/read02)|
 |read3  |[link3]()|
 |read4  |[link4]()|
 |read5  |[link5]()|
