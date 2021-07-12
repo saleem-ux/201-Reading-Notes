@@ -14,6 +14,7 @@
 |read10 |[link10](https://saleem-ux.github.io/reading-note/read10)|
 |read11 |[link11](https://saleem-ux.github.io/reading-note/read11)|
 |read12 |[link12](https://saleem-ux.github.io/reading-note/read12)|
+|read12 |[link12](https://saleem-ux.github.io/reading-note/read13)|
 |read13 |[link13]()|
 |read14 |[link14]()|
 |read15 |[link15]()|
