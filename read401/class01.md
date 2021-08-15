@@ -1,6 +1,6 @@
 ## Review, Research, and Discussion:
 
-## Describe (in plain English) what Array.map() does??
+## Describe (in plain English) what Array.map() does?
 it's a method in javascript that used to iterate over an array and calling function on every element of array and return value. 
 
 ## Describe (in plain English) what Array.reduce() does
