@@ -1,9 +1,9 @@
 ## Review, Research, and Discussion:
 
-## Describe (in plain English) what Array.map() does?
+## Describe (in plain English) what Array.map() does??
 it's a method in javascript that used to iterate over an array and calling function on every element of array and return value. 
 
-## Describe (in plain English) what Array.reduce() does =>
+## Describe (in plain English) what Array.reduce() does
 iterates over an array and returns the last version of the “accumulator” … in each iteration, based on the value and/or idx of the current element in the array, you have the opportunity to modify and return the accumulator. After the last iteration of the array, that accumulator value is returned to the caller.
 
 ## Provide code snippets showing how to use superagent() to fetch data from a URL and log the result
