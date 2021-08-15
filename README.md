@@ -48,8 +48,8 @@
 
 | Numbers | links|
 |------|------|
-|  1| [read 01]() |
-|  2 | [read 02]()|
+|  1| [Express](https://saleem-ux.github.io/reading-note/read401/read02) |
+|  2| [Express](https://saleem-ux.github.io/reading-note/read401/read02) |
 |  3 | [read 03]() |
 |  4 | [read 04]() |
 |  5 | [read 05]() |

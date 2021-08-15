@@ -46,3 +46,14 @@ The difference is:
 4. SOAP doesn't return human readable result, whilst REST result is readable with is just plain XML or JSON
 
 5. SOAP is not just over HTTP, it also uses other protocols such as SMTP, FTP, etc, REST is over only HTTP
+
+## Document the following Vocabulary Terms
+
+1. Web Server
+- A web server is the technology that serves up a website to users when they visit a URL. On the technical side of things, what that means is that it handles the hypertext transfer protocol (HTTP)
+2. Express
+
+- Web Applications
+Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+3. Routing
+- Routing is responsible for matching incoming HTTP requests and dispatching those requests to the app's executable endpoints. Endpoints are the app's units of executable request-handling code. Endpoints are defined in the app and configured when the app starts. The endpoint matching process can extract values from the request's URL and provide those values for request processing. Using endpoint information from the app, routing is also able to generate URLs that map to endpoint
