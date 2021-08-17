@@ -50,7 +50,7 @@
 |------|------|
 |  1| [Express](https://saleem-ux.github.io/reading-note/read401/read02) |
 |  2| [Express](https://saleem-ux.github.io/reading-note/read401/read02) |
-|  3 | [read 03](https://saleem-ux.github.io/reading-note/read401/read03) |
+|  3 | [Express REST API](https://saleem-ux.github.io/reading-note/read401/read03) |
 |  4 | [read 04]() |
 |  5 | [read 05]() |
 | 6 | [6]()|
