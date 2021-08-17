@@ -48,11 +48,11 @@
 
 | Numbers | links|
 |------|------|
-|  1| [Express](https://saleem-ux.github.io/reading-note/read401/read02) |
-|  2| [Express](https://saleem-ux.github.io/reading-note/read401/read02) |
-|  3 | [Express REST API](https://saleem-ux.github.io/reading-note/read401/read03) |
-|  4 | [read 04]() |
-|  5 | [read 05]() |
+|  1 | [prep: Reading](https://saleem-ux.github.io/reading-note/read401/prepwork) |
+|  2 | [Node Ecosystem, TDD, CI/CD](https://saleem-ux.github.io/reading-note/read401/read01) |
+|  3 | [Express](https://saleem-ux.github.io/reading-note/read401/read02) |
+|  4 | [Express REST API](https://saleem-ux.github.io/reading-note/read401/read03) |
+|  5 | [Data Modeling](https://saleem-ux.github.io/reading-note/read401/read04) |
 | 6 | [6]()|
 | 7| [7]()|
 | 8 | [8]()|
