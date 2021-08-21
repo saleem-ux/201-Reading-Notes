@@ -54,7 +54,7 @@
 |  4 | [Express REST API](https://saleem-ux.github.io/reading-note/read401/read03) |
 |  5 | [Data Modeling](https://saleem-ux.github.io/reading-note/read401/read04) |
 | 6 | [Linked Lists](https://saleem-ux.github.io/reading-note/read401/read05)|
-| 7| [7]()|
+| 7| [Authentication](https://saleem-ux.github.io/reading-note/read401/read06)|
 | 8 | [8]()|
 | 9 | [9]()|
 | 10 | [10]()|
