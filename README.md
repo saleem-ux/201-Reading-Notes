@@ -55,7 +55,7 @@
 |  5 | [Data Modeling](https://saleem-ux.github.io/reading-note/read401/read04) |
 | 6 | [Linked Lists](https://saleem-ux.github.io/reading-note/read401/read05)|
 | 7| [Authentication](https://saleem-ux.github.io/reading-note/read401/read06)|
-| 8 | [8]()|
+| 8 | [Bearer Authorization](https://saleem-ux.github.io/reading-note/read401/read07)|
 | 9 | [9]()|
 | 10 | [10]()|
 | 11| [11]()|
