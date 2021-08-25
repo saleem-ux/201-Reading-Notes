@@ -57,7 +57,7 @@
 | 7| [Authentication](https://saleem-ux.github.io/reading-note/read401/read06)|
 | 8 | [Bearer Authorization](https://saleem-ux.github.io/reading-note/read401/read07)|
 | 9 | [Access Control (ACL)](https://saleem-ux.github.io/reading-note/read401/read08)|
-| 10 | [10]()|
+| 10 | [Authorization/Authentication](https://saleem-ux.github.io/reading-note/read401/read09)|
 | 11| [11]()|
 | 12 | [12]()|
 | 13 | [13]()|
