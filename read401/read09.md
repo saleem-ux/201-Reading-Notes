@@ -1,4 +1,4 @@
-##  Authorization/Authentication
+#  Authorization/Authentication
 
 ### 1. What header(s) are used in authentication and authorization
   1. Basic Auth 
