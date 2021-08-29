@@ -58,8 +58,8 @@
 | 8 | [Bearer Authorization](https://saleem-ux.github.io/reading-note/read401/read07)|
 | 9 | [Access Control (ACL)](https://saleem-ux.github.io/reading-note/read401/read08)|
 | 10 | [Authorization/Authentication](https://saleem-ux.github.io/reading-note/read401/read09)|
-| 11| [11]()|
-| 12 | [12]()|
+| 11| [Stacks and Queues](https://saleem-ux.github.io/reading-note/read401/read10)|
+| 12 | [Event Driven Applications](https://saleem-ux.github.io/reading-note/read401/read11)|
 | 13 | [13]()|
 | 14 | [14]()|
 | 15 | [15]()|
