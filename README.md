@@ -60,7 +60,7 @@
 | 10 | [Authorization/Authentication](https://saleem-ux.github.io/reading-note/read401/read09)|
 | 11| [Stacks and Queues](https://saleem-ux.github.io/reading-note/read401/read10)|
 | 12 | [Event Driven Applications](https://saleem-ux.github.io/reading-note/read401/read11)|
-| 13 | [13]()|
+| 13 | [Socket.io](https://saleem-ux.github.io/reading-note/read401/read12)|
 | 14 | [14]()|
 | 15 | [15]()|
 
