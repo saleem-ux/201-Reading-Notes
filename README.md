@@ -62,5 +62,26 @@
 | 12 | [Event Driven Applications](https://saleem-ux.github.io/reading-note/read401/read11)|
 | 13 | [Socket.io](https://saleem-ux.github.io/reading-note/read401/read12)|
 | 14 | [Message Queues](https://saleem-ux.github.io/reading-note/read401/read13)|
+| 15 | [Event Driven Architecture](https://saleem-ux.github.io/reading-note/read401/read14)|
 | 15 | [15]()|
+| 15 | [15]()|
+| 15 | [15]()|
+| 15 | [15]()|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
