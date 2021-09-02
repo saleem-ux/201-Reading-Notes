@@ -1,6 +1,6 @@
 # Trees
 
-### Common Terminology:
+## Common Terminology:
 
 - **Node** - A Tree node is a component which may contain it’s own values, and references to other nodes
 
@@ -22,7 +22,7 @@
 ![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BinaryTree1.PNG)
 
 
-### There are two categories of traversals when it comes to trees:
+## There are two categories of traversals when it comes to trees:
 
   1. Depth First
   2. Breadth First
@@ -44,7 +44,7 @@ Given the sample tree above, our traversals would result in different paths:
   - In-order: D, B, E, A, F, C
   - Post-order: D, E, B, F, C, A
 
-### Breadth First
+## Breadth First
 Breadth first traversal iterates through the tree by going through each level of the tree node-by-node. So, given our starting tree one more time:
 
 ![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/tree-example.png)
