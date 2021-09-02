@@ -1,53 +1,26 @@
-# Trees
+# Trees 
 
-## Common Terminology:
+> A tree is a nonlinear data structure, compared to arrays, linked lists, stacks and queues which are linear data structures. A tree can be empty with no nodes or a tree is a structure consisting of one node called the root and zero or one or more subtrees.
 
-- **Node** - A Tree node is a component which may contain it’s own values, and references to other nodes
+>  Trees can be used to store data that has an inherent hierarchical structure. For example, an operating system may use a tree for directories, files and folders in its file management system. They are dynamic, which means that it is easy to add and delete nodes
 
-- **Root** - The root is the node at the beginning of the tree
+![](https://www.i-programmer.info/images/stories/BabBag/trees/Tree1.jpg)
 
-- **K** - A number that specifies the maximum number of children any node may have in a k-ary tree. In a binary tree, k = 2.
+## Binary Trees
 
-- **Left** - A reference to one child node, in a binary tree
+> A binary tree is a tree-type non-linear data structure with a maximum of two children for each parent. Every node in a binary tree has a left and right reference along with the data element. ... The nodes that hold other sub-nodes are the parent nodes.
 
-- **Right** - A reference to the other child node, in a binary tree
+![](https://www.upgrad.com/blog/wp-content/uploads/2020/09/Picture1-1.jpg)
 
-- **Edge** - The edge in a tree is the link between a parent and child node
+## Binary Search Trees
 
-- **Leaf** - A leaf is a node that does not have any children
+> A Binary Search Tree (BST) is a tree in which all the nodes follow the below-mentioned properties − The value of the key of the left sub-tree is less than the value of its parent (root) node's key. The value of the key of the right sub-tree is greater than or equal to the value of its parent (root) node's key.
 
-- **Height** - The height of a tree is the number of edges from the root to the furthest leaf
-
-
-![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BinaryTree1.PNG)
+![](https://miro.medium.com/max/1194/1*ziYvZzrttFYMXkkV9u66jw.png)
 
 
-## There are two categories of traversals when it comes to trees:
+##  K-ary Trees
 
-  1. Depth First
-  2. Breadth First
+> K-ary trees are trees whose internal nodes all have exactly K children. Thus, a full binary tree is a 2-ary tree. The PR Quadtree discussed in Module <Spatial> is an example of a 4-ary tree. Because K-ary tree nodes have a fixed number of children, unlike general trees, they are relatively easy to implement.
 
-### Depth First
-Depth first traversal is where we prioritize going through the depth (height) of the tree first. There are multiple ways to carry out depth first traversal, and each method changes the order in which we search/print the root. Here are three methods for depth first traversal:
-
- - Pre-order: root >> left >> right
- - In-order: left >> root >> right
- - Post-order: left >> right >> root
-
-![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/tree-example.png)
-
-
-
-Given the sample tree above, our traversals would result in different paths:
-
-  - Pre-order: A, B, D, E, C, F
-  - In-order: D, B, E, A, F, C
-  - Post-order: D, E, B, F, C, A
-
-## Breadth First
-Breadth first traversal iterates through the tree by going through each level of the tree node-by-node. So, given our starting tree one more time:
-
-![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/tree-example.png)
-
-
- - Output: A, B, C, D, E, F
+![](https://www.researchgate.net/profile/Pino-Caballero-Gil/publication/276496428/figure/fig1/AS:614160610115584@1523438708597/Hash-tree-based-on-a-perfect-5-ary-tree.png)
