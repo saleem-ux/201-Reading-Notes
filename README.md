@@ -64,7 +64,7 @@
 | 14 | [Message Queues](https://saleem-ux.github.io/reading-note/read401/read13)|
 | 15 | [Event Driven Architecture](https://saleem-ux.github.io/reading-note/read401/read14)|
 | 16 | [Trees](https://saleem-ux.github.io/reading-note/read401/read15)|
-| 15 | [15]()|
+| 17 | [AWS: Cloud Servers](https://saleem-ux.github.io/reading-note/read401/read16)|
 | 15 | [15]()|
 | 15 | [15]()|
 
