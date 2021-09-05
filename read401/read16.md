@@ -113,12 +113,5 @@ in other words Pub/Sub is a flexible, reliable, real-time messaging service for 
 
 [Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0)
 
-**so the thing is what you abeal to do and achive to undersatnd your coworker team**
 
-
-
-for more info please visit my github
-[qusaiqeisi](https://github.com/qusaiqeisi)
- 
- ***best regard***
 
