@@ -1,6 +1,6 @@
 # AWS: S3 and Lambda
 
-# Review, Research, and Discussion
+## Review, Research, and Discussion
 
 ![](https://awscomputeblogimages.s3-us-west-2.amazonaws.com/resizefly_picture01.png)
 > Amazon S3 service is used for file storage, where you can upload or remove files. ... AWS Lambda has a handler function which acts as a start point for AWS Lambda function. The handler has the details of the events.
