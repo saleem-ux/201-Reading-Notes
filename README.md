@@ -67,6 +67,8 @@
 | 17 | [AWS: Cloud Servers](https://saleem-ux.github.io/reading-note/read401/read16)|
 | 18 | [AWS: S3 and Lambda](https://saleem-ux.github.io/reading-note/read401/read17)|
 | 19 | [AWS: API, Dynamo and Lambda](https://saleem-ux.github.io/reading-note/read401/read18)|
+| 20 | [AWS: Events](https://saleem-ux.github.io/reading-note/read401/read19)|
+| 19 | [AWS: API, Dynamo and Lambda](https://saleem-ux.github.io/reading-note/read401/read18)|
 
 
 
