@@ -68,6 +68,8 @@
 | 18 | [AWS: S3 and Lambda](https://saleem-ux.github.io/reading-note/read401/read17)|
 | 19 | [AWS: API, Dynamo and Lambda](https://saleem-ux.github.io/reading-note/read401/read18)|
 | 20 | [AWS: Events](https://saleem-ux.github.io/reading-note/read401/read19)|
+| 21 | [Component Based UI](https://saleem-ux.github.io/reading-note/read401/read26)|
+| 22 | [useState() Hook](https://saleem-ux.github.io/reading-note/read401/read27)|
 | 19 | [AWS: API, Dynamo and Lambda](https://saleem-ux.github.io/reading-note/read401/read18)|
 
 
