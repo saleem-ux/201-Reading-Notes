@@ -71,6 +71,8 @@
 | 21 | [Component Based UI](https://saleem-ux.github.io/reading-note/read401/read26)|
 | 22 | [useState() Hook](https://saleem-ux.github.io/reading-note/read401/read27)|
 | 23 | [Component Lifecycle / useEffect()](https://saleem-ux.github.io/reading-note/read401/read28)|
+| 24 | [Advanced State with Reducers](https://saleem-ux.github.io/reading-note/read401/read29)|
+| 25 | [Hash Tables](https://saleem-ux.github.io/reading-note/read401/read30)|
 
 
 
