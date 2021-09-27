@@ -73,6 +73,8 @@
 | 23 | [Component Lifecycle / useEffect()](https://saleem-ux.github.io/reading-note/read401/read28)|
 | 24 | [Advanced State with Reducers](https://saleem-ux.github.io/reading-note/read401/read29)|
 | 25 | [Hash Tables](https://saleem-ux.github.io/reading-note/read401/read30)|
+| 25 | [Hash Tables](https://saleem-ux.github.io/reading-note/read401/read30)|
+| 25 | [Context API - Behaviors](https://saleem-ux.github.io/reading-note/read401/read32)|
 
 
 
