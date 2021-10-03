@@ -78,6 +78,7 @@
 | 28 | [<Login /> and <Auth />](https://saleem-ux.github.io/reading-note/read401/read33)|
 | 29 | [API Integration](https://saleem-ux.github.io/reading-note/read401/read34)|
 | 30 | [Graphs](https://saleem-ux.github.io/reading-note/read401/read35)|
+| 31 | [Application State with Redux](https://saleem-ux.github.io/reading-note/read401/read36)|
 
 
 
