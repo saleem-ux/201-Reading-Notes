@@ -79,7 +79,8 @@
 | 29 | [API Integration](https://saleem-ux.github.io/reading-note/read401/read34)|
 | 30 | [Graphs](https://saleem-ux.github.io/reading-note/read401/read35)|
 | 31 | [Application State with Redux](https://saleem-ux.github.io/reading-note/read401/read36)|
-| 31 | [Redux - Combined Reducers](https://saleem-ux.github.io/reading-note/read401/read37)|
+| 32 | [Redux - Combined Reducers](https://saleem-ux.github.io/reading-note/read401/read37)|
+| 33 | [Redux - Asynchronous Actions](https://saleem-ux.github.io/reading-note/read401/read38)|
 
 
 
