@@ -81,6 +81,7 @@
 | 31 | [Application State with Redux](https://saleem-ux.github.io/reading-note/read401/read36)|
 | 32 | [Redux - Combined Reducers](https://saleem-ux.github.io/reading-note/read401/read37)|
 | 33 | [Redux - Asynchronous Actions](https://saleem-ux.github.io/reading-note/read401/read38)|
+| 34 | [Redux - Additional Topics](https://saleem-ux.github.io/reading-note/read401/read39)|
 
 
 
